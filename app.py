@@ -28,4 +28,3 @@ if st.button("Predict Churn"):
         st.error("Customer is likely to churn")
     else:
         st.success("Customer will stay")
-      Add Streamlit app
